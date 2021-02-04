@@ -1,0 +1,19 @@
+div{
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+}
+h2{
+  font-family: Arial;
+  font-weight: bold;
+}
+p{
+  font-family: Arial;
+}
+button{
+  font-family: Arial;
+  color: white;
+  background-color: dodgerblue;
+  border-radius: 4px;
+  font-size: 14px;
+}

@@ -1,0 +1,20 @@
+div{
+  margin-left: 20%;
+  margin-bottom: 30%;
+  margin-top: -5%;
+}
+h2{
+  font-family: Arial;
+  font-weight: bold;
+}
+table{
+  font-family: Arial;
+}
+button{
+  font-family: Arial;
+  color: white;
+  background-color: dodgerblue;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
