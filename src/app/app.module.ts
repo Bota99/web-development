@@ -5,12 +5,18 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import {AddRecordComponent} from './add-record/add-record.component';
 import { MyresComponent } from './myres/myres.component';
+import { HeaderComponent } from './header/header.component';
+import { LayoutComponent } from './layout/layout.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     AddRecordComponent,
-    MyresComponent
+    MyresComponent,
+    HeaderComponent,
+    LayoutComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
